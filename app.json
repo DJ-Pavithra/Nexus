@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "QA-Forum",
+    "slug": "QA-Forum",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "5e19de5f-60d3-4a2a-a175-db50f56a4bb3"
+      }
+    },
+    "android": {
+      "package": "com.pavithra_dj.QAForum"
+    }
+  }
+}
